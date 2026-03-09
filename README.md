@@ -13,13 +13,21 @@ Descargar o clonar este repositorio
 Abrir el archivo Proyecto_Matrices.pde en Processing
 Cambiar el valor de n en la primera pestaña para ajustar el tamaño de las matrices
 Ejecutar con el botón Play
+
 // Funciones implementadas
 
 MatrizAleatoria: llena una matriz con números aleatorios entre 1 y 10
+
 MatrizConteo: llena una matriz con conteo de 1 en 1
+
 ArregloAleatorio: llena un arreglo con números aleatorios entre 1 y 10
+
 MultiplicarMatrices: calcula el producto matricial A x B
+
 CalcularTranspuesta: calcula la transpuesta de una matriz
+
 CalcularInversa: calcula la inversa usando el método Gauss-Jordan
+
 ProduArrxMatrz: calcula el producto de un arreglo por una matriz
+
 productoPunto: calcula el producto punto entre dos arreglos}
